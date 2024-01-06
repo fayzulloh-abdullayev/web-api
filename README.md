@@ -13,14 +13,8 @@ Oxirgi o’n yilda, bu o’zaro bog’langan API tarmog’I – yoki API web- o�
 
 Bu savolga javob, va Firmlar Web API’lardan qanday daromad olishligini o’rganamiz, quyidagi tavsifta ko’rishingiz mumkin:
 
-:::tip 
-•	Web API’ning asosiy xarakteriskasi bu firmalarning iste'molchilariga ta’sir qilish
-
-•	Ular xavotirlanishadi shu kabi API dizaynerlai aniqlash kerak bo’lgan web API’larning xavsizligi va boshqaruvidan va
-
-•	SOAP va REST kabe Arxetuktira frameworklari belgilaydi  zomanaviy Web API-larning ishlashini tartibga soluvchi qoidalarini.
-:::
-
+> [!NOTE]
+>	Web API’ning asosiy xarakteriskasi bu firmalarning iste'molchilariga ta’sir qilish
 
 
 ## 2) APIs, Services, Clients, and Servers
@@ -29,8 +23,9 @@ API bu ilovaning tarkibi qismi bo’lin bu orqali boshqa ilovalarga xizmat     k
 tishni ta’minlab beradi. Xizmatni taqdim etuvchi dastur bu “ server “ deb nomlanadi va “ server “ dan foydalanayotgan foydalanuvchi “ client “ deb ataladi. “ Service “ bu har qanday vazifani bajaradigan , foydalanuvchi yoki ilova uchun foydali bo’lgan har qanday vazifa yoki topshiriq. Misol uchun, parvoz haqidagi ma’lumotlar ilovasi parvoz vaqtida xizmat (service) ko’rsatish sifatida foydalaniladi masalan parvoz vaqtida turium ilovasidan foydalanishligi mumkin. Parvoz ma’lumotlari bu server ilovasi  va turistik dastur( yoki dasturdan foydalanayotgan shaxs) client(mijoz) xisoblanadi.
 
 
-![alt text](https://miro.medium.com/v2/resize:fit:700/0*PSxcvFBVaufSCuwt.png)
-
+<p align="center">
+<img src="https://miro.medium.com/v2/resize:fit:700/0*PSxcvFBVaufSCuwt.png" >
+</p>
 Web API’larni ustida amaliy tajriblar o’tkazish uchun [Web API'lar darsligiga](https://docs.appian.com/suite/help/20.1/Web_API_Tutorial.html) tashrif buyuring
 
 
@@ -79,5 +74,12 @@ Minglab so’rovlarni yuboradigan bir nechta clientlarni ko’rib chiqadi, shu v
 
 •	Veb API-lar boshqarilishi kerak. Bitta API boshqarish oson. Biroq, agar firma bir nechta API-larni ishlatsa, API boshqaruv tizimi zarur. Cockpit kabi vositalar Web API dizaynerlariga oʻz veb-APIlarini bitta qulay interaktiv boshqaruv panelidan boshqarishga yordam beradi
 :::
+
+### endi [FOLLOW ](https://github.com/fayzullohblog)  bosing 
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,aws,html,css)](https://skillicons.dev)
 
 
