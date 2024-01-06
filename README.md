@@ -5,7 +5,7 @@
 ![alt text](https://codetime.co.il/wp-content/uploads/2022/07/api.jpg)
 
 
-Web API larni tushunish va ulardan foydalanish
+
 
 Web API internetni o’z ichiga olgan global resourcelar tarmog’I - World Wide Webning bri qismi Web API’lar. Net Web  API sifatida ham tanilgan, shuning uchun Internet orqali maxsus turdagi resoucelari mavjud.
 
