@@ -63,7 +63,7 @@ Vedio orqali o'rganish [yuklanmadi]()
 Web API - lar tarmoq orqali ishlaganligi uchun va ko’pincha bir vaqtning o’zida 
 Minglab so’rovlarni yuboradigan bir nechta clientlarni ko’rib chiqadi, shu vaqtda ular moslashvchan, tez, xavsiz, boshqaruvchan va osan foydalanildigan bo’lishligi kerak bo’ladi. Biz pastagi xususiyatlar bilan muhokama qilamiz.
 
-:::tip
+```
 •	Web-APIlar ishlab chiquvchiga qo’lay bo’lishligi kerak bo’ladi. Web API – larning ma’lum turlari mashhur bo’lishiga eng katta sababi – ulardan foydalanish qulayligi. Ishlab chiqaruvchilar o’zlarining client ilovalariga bir necha qator code qo’shishlari kerak.
 
 •	Veb API-lar turli mijozlarning ehtiyojlarini qondirish uchun etarlicha moslashuvchan bo'lishi kerak. Barcha clientlarga servicedan bir xil ma’lumot kerak emas 
@@ -73,7 +73,7 @@ Minglab so’rovlarni yuboradigan bir nechta clientlarni ko’rib chiqadi, shu v
 •	Web API lar kengaytirilgan bo’lishligi kerak. Internet orqali foydalanilgan API odatda minglab so’rov yuboradi Shuning uchun API ish faoliyatini yaxshilashga intilayotgan firmalar Gravitee.io shlyuzi kabi API shlyuzlaridan foydalanadilar, ular 20 000 dan ortiq bir vaqtda qo'ng'iroqlarni(so’rovlar) amalga oshirishi mumkin.
 
 •	Veb API-lar boshqarilishi kerak. Bitta API boshqarish oson. Biroq, agar firma bir nechta API-larni ishlatsa, API boshqaruv tizimi zarur. Cockpit kabi vositalar Web API dizaynerlariga oʻz veb-APIlarini bitta qulay interaktiv boshqaruv panelidan boshqarishga yordam beradi
-:::
+```
 
 ### endi [FOLLOW ](https://github.com/fayzullohblog)  bosing 
 
